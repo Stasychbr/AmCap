@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="amcap">
+</Property><Property Name="Файл решения" Value="A:\Windows-classic-samples\Samples\Win7Samples\multimedia\directshow\capture\amcap\amcap.sln">
+</Property><Property Name="Date" Value="7 июля 2020 г.">
+</Property><Property Name="Time" Value="22:47 PM ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="amcap.sln" Description="Успешно создана резервная копия файла A:\Windows-classic-samples\Samples\Win7Samples\multimedia\directshow\capture\amcap\amcap.sln.old">
+</Event><Event ErrorLevel="0" Project="AmCap" Source="AmCap.vcproj" Description="Веб-развертывание на локальном IIS-сервере больше не поддерживается. Инструмент веб-развертывания был удален из параметров проекта.">
+</Event><Event ErrorLevel="1" Project="AmCap" Source="AmCap.vcproj" Description="Приложение было обновлено, чтобы включить параметры, связанные с контролем учетных записей пользователей (UAC), появившемся в Windows Vista. По умолчанию, в Windows Vista при включенном UAC, приложение запускается с теми же привилегиями, что и запустивший его процесс. Это также делает невозможным запуск приложений с технологией виртуализации. Параметры, связанные с UAC можно поменять на странице свойств проекта.">
+</Event><Event ErrorLevel="0" Project="AmCap" Source="AmCap.vcproj" Description="Из проектного файла была успешно сделана резервная копия &quot;A:\Windows-classic-samples\Samples\Win7Samples\multimedia\directshow\capture\amcap\AmCap.vcproj.8.00.old&quot;.">
+</Event><Event ErrorLevel="0" Project="AmCap" Source="AmCap.vcproj" Description="Проект обновлен успешно.">
+</Event><Event ErrorLevel="3" Project="AmCap" Source="AmCap.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="amcap.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="amcap.sln" Description="Converted">
+</Event></UpgradeLog>
